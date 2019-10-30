@@ -1,0 +1,12 @@
+defaultProxy:
+  address: "http://localhost:8888"
+routes:
+  - type: exact
+    pattern: "localhost:8080"
+    proxy:
+      address: "http://localhost:8888"
+  - type: regexp
+    pattern: "localhost:8080"
+    proxy:
+      address: "http://localhost:8888"
+
