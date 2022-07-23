@@ -10,5 +10,5 @@ require (
 	github.com/prometheus/client_golang v1.2.1
 	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
