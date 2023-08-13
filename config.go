@@ -7,7 +7,7 @@ import (
 	"regexp"
 
 	multierror "github.com/hashicorp/go-multierror"
-	yaml "gopkg.in/yaml.v2"
+	yaml "gopkg.in/yaml.v3"
 )
 
 // Config is a validated configuration.

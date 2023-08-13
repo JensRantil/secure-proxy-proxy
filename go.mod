@@ -9,7 +9,7 @@ require (
 	github.com/prometheus/client_golang v1.2.1
 	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
@@ -24,4 +24,5 @@ require (
 	github.com/prometheus/common v0.7.0 // indirect
 	github.com/prometheus/procfs v0.0.5 // indirect
 	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
+	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
