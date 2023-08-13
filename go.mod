@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/JensRantil/connectproxy v0.0.0-20191027203607-43907c4361b2
-	github.com/elazarl/goproxy v0.0.0-20191011121108-aa519ddbe484
+	github.com/elazarl/goproxy v0.0.0-20230808193330-2592e75ae04a
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/prometheus/client_golang v1.2.1
 	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
