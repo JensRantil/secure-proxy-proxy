@@ -1,3 +1,8 @@
+> **UPDATE:** As far as I know, this project is not being used in production
+> anywhere anymore. As such, I will be archiving it to avoid having to maintain
+> it. Feel free to reach out to me (Jens) if you would like to unarchive it and
+> find it useful.
+
 Secury Proxy Proxy
 ==================
 Secure Proxy Proxy (SPP) is an HTTP(S) forward proxy that only allows
